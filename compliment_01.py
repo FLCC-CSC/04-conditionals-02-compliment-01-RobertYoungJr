@@ -14,8 +14,7 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
-
-ain():
+def main():
     def compliment():
         answer = input("Would you like a compliment? ")
         if answer == "yes":
